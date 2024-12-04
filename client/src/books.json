@@ -1,0 +1,37 @@
+{
+    "3": {
+        "titre": "dsj",
+        "description": "oui",
+        "inStock": false
+    },
+    "4": {
+        "titre": "sqdkqjs",
+        "description": "sqds",
+        "inStock": true
+    },
+    "5": {
+        "titre": "tata",
+        "description": "tatta",
+        "inStock": true
+    },
+    "6": {
+        "titre": "Tupac the Staffy",
+        "description": "biographie de Tupac",
+        "inStock": true
+    },
+    "7": {
+        "titre": "Tupac",
+        "description": "biographie de l'autre Tupac",
+        "inStock": true
+    },
+    "9": {
+        "titre": "A long expected party",
+        "description": "une histoire de hobbit",
+        "inStock": false
+    },
+    "10": {
+        "titre": "livre",
+        "description": "super livre",
+        "inStock": true
+    }
+}
